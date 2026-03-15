@@ -12,7 +12,7 @@ Este repositorio contiene el material teórico y práctico para el desarrollo y 
 - [**Comandos Útiles de Linux**](guides/linux/comandos.md): Una lista de comandos esenciales para trabajar en la terminal de Linux.
 
 ### 🐳 Docker
-- [**Introducción y uso**](guides/docker.md): Conceptos básicos sobre Docker, la instalación y el manejo de contenedores básico.
+- [**Introducción y uso**](guides/Docker/docker.md): Conceptos básicos sobre Docker, la instalación y el manejo de contenedores básico.
 
 ### 🔄 Git
 - [**Añadir una clave SSH a GitHub**](guides/git/ssh.md): Paso a paso para añadir una clave SSH a tu cuenta de GitHub.
