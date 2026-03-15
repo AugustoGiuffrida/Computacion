@@ -1,7 +1,8 @@
 # Características Fundamentales de Python
 
-Antes de adentrarse en la sintaxis y las estructuras de datos, es imperativo comprender la arquitectura subyacente y las decisiones de diseño que definen a Python. 
-Estos conceptos son la base para entender cómo el lenguaje procesa las instrucciones, gestiona la memoria y maneja los datos.
+Antes de adentrarse en la sintaxis y las estructuras de datos, es imperativo comprender la arquitectura subyacente y las decisiones de diseño que definen a Python.
+Estos conceptos son la base para entender cómo el lenguaje procesa las instrucciones, gestiona la memoria y maneja los datos. 
+
 ---
 ## 1. Naturaleza del Lenguaje: Interpretado y Compilado a Bytecode
 
