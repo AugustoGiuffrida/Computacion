@@ -92,6 +92,7 @@ del a # Se elimina la referencia 'a'. El contador baja a 2.
 del b # Se elimina la referencia 'b'. El contador llega a 0 (ignorando llamadas internas) y la memoria se libera automáticamente.
 
 ```
+---
 
 ## 3. Sistema de Tipado: Dinámico y Fuerte
 
@@ -143,6 +144,8 @@ resultado = str(a) + b # Se requiere conversión explícita (casting).
 
 ```
 
+---
+
 ## 4. Indentación Estricta (Estructura de Bloques)
 
 A diferencia de la mayoría de lenguajes derivados de C (como C++, Java o JavaScript) que utilizan llaves `{}` para delimitar bloques lógicos de código y puntos y comas `;` para terminar sentencias, Python utiliza el espacio en blanco de forma semántica.
@@ -165,6 +168,8 @@ def evaluar_numero(num):
 # Fin del bloque de la función (Nivel de indentación 0)
 
 ```
+
+---
 
 ## 5. Multiparadigma
 
