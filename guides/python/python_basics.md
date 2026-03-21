@@ -1,6 +1,6 @@
-# Introduccion sobre Tipos de Datos, Estructuras y Funciones en Python
+# Introduccion sobre Estructuras y Funciones en Python
 
-Esta guía profundiza en los **tipos de datos** y las **estructuras de control** en Python, enfocándose en aspectos detallados como:  
+Esta guía profundiza en las **estructuras de control** y **funciones** de Python, enfocándose en aspectos detallados como:  
 - Los parámetros y condiciones de las estructuras de control (decisión y repetitivas)  
 - La comparación entre **listas** y **tuplas**: cuándo y por qué utilizar cada una  
 - Un análisis detallado de las **funciones**: definición, argumentos posicionales, retorno de valores, llamadas a funciones y el paso de datos
@@ -9,24 +9,9 @@ El objetivo de esta guía es aprender a trabajar con datos y controlar el flujo 
 
 ---
 
-## 1. Tipos de Datos y Estructuras de Datos
+## 1. Estructuras de Datos
 
-### 1.1 Variables
-Las **variables** son contenedores para almacenar datos. En Python, la tipificación es dinámica, por lo que no es necesario declarar el tipo explícitamente. 
-
-**Ejemplo:**
-
-```python
-edad = 30
-nombre = "María"
-pi = 3.1416
-
-print("Nombre:", nombre)
-print("Edad:", edad)
-print("Valor de pi:", pi)
-```
-
-### 1.2 Listas
+### 1.1 Listas
 
 Las listas son colecciones ordenadas y mutables que permiten almacenar múltiples elementos. Cada elemento tiene una posición específica, denominada **índice**, que comienza en 0 para el primer elemento, 1 para el segundo, y así sucesivamente.
 
