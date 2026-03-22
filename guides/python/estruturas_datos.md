@@ -1,4 +1,4 @@
-## Introduccion sobre Estructuras de datos
+# Introduccion sobre Estructuras de datos
 
 En este documento exploraremos las colecciones de datos fundamentales en Python y las técnicas para la manipulación de cadenas de texto.
 El objetivo es comprender no solo la sintaxis para utilizar estas herramientas, sino también su funcionamiento y en qué escenarios es más eficiente elegir una sobre otra.
