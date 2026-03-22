@@ -2,15 +2,15 @@
 
 En este documento exploraremos en detalle cómo Python almacena la información, cómo maneja los espacios de memoria y cuáles son los tipos de datos integrados (built-in) que el lenguaje proporciona para modelar problemas del mundo real.
 
-## 1. Variables: Referencias y Funcionamiento Interno
+## 1. Variables
 
 En Python, **una variable es una referencia (un puntero)** a un objeto que reside en la memoria. Cuando se asigna un valor a una variable, Python crea un objeto en memoria y hace que la variable apunte a ese objeto.
 
-**Características principales:**
+**Características:**
 * Las variables no están fijadas a un tipo de dato específico. Pueden cambiar de tipo si se les reasigna un objeto diferente.
 * Las variables `Edad` y `edad` apuntan a espacios de memoria y objetos completamente distintos (Case-Sensitive).
 
-**Ejemplo **
+**Ejemplo**
 ```python
 # Se crea un objeto de tipo entero con el valor 5 en memoria.
 # La etiqueta 'x' se asocia a ese espacio de memoria.
@@ -27,7 +27,7 @@ a, b, c = "Manzana", "Banana", "Cereza"
 
 ## 2. Tipos de Datos
 
-En Python, los datos se clasifican fundamentalmente en **Inmutables** (no pueden cambiar su estado interno una vez creados en memoria) y **Mutables** (pueden ser modificados in-place).
+En Python, los datos se clasifican fundamentalmente en **Inmutables** (no pueden cambiar su estado interno una vez creados en memoria) y **Mutables** (pueden ser modificados después de haber sido creados en memoria, sin que cambie su referencia).
 
 Para conocer el tipo de clase del objeto al que apunta una variable, se recomienda utilizar la función `type()`.
 
